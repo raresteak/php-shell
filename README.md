@@ -9,7 +9,7 @@ I like tacos
 ```
  
 ```
-http://yourwebsite/shell.php?tacos==/usr/games/fortune
+http://yourwebsite/shell.php?tacos=/usr/games/fortune
 ```
 ```
 Q:      How does a hacker fix a function which
